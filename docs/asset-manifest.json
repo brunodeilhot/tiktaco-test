@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TikTaco/static/js/main.363c295b.js",
+    "static/js/787.0f33ec23.chunk.js": "/TikTaco/static/js/787.0f33ec23.chunk.js",
+    "static/media/LoginLogo.svg": "/TikTaco/static/media/LoginLogo.ac27ef56716f69a4fd4b723e561c9c45.svg",
+    "static/media/Logo.svg": "/TikTaco/static/media/Logo.4e019f4f468d1766c5d1499852b950f3.svg",
+    "static/media/SadLogo.svg": "/TikTaco/static/media/SadLogo.42b7c2ef75082a5cbdfdceba47c7004f.svg",
+    "index.html": "/TikTaco/index.html",
+    "static/media/keyboard.svg": "/TikTaco/static/media/keyboard.66a509cd1886f36e0dc7caab7b2f087f.svg",
+    "static/media/mouse.svg": "/TikTaco/static/media/mouse.df4d8fc5a0713755b4ab03f712e5f7b6.svg",
+    "main.363c295b.js.map": "/TikTaco/static/js/main.363c295b.js.map",
+    "787.0f33ec23.chunk.js.map": "/TikTaco/static/js/787.0f33ec23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.363c295b.js"
+  ]
+}
