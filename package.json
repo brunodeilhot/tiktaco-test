@@ -2,7 +2,7 @@
   "name": "tiktaco",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brunodeilhot.github.io/TikTaco/",
+  "homepage": "https://brunodeilhot.github.io/tiktaco-test/",
   "dependencies": {
     "@auth0/auth0-react": "^1.10.1",
     "@emotion/react": "^11.9.0",
